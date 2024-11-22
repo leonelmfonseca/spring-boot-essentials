@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>ioc-container</artifactId>
+	<artifactId>ioc</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ioc-container</name>
-	<description>Demo IoC Container examples project for Spring Boot</description>
+	<name>ioc-demo</name>
+	<description>Demo IoC examples project for Spring Boot</description>
 	<url/>
 	<licenses>
 		<license/>
